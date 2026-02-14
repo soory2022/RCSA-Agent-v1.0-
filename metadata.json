@@ -1,0 +1,8 @@
+{
+  "name": "RCSA Agent v1.0",
+  "description": "An automated AI-powered Risk Control Self-Assessment system for enterprise-grade risk management and automated scoring.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
